@@ -1,0 +1,21 @@
+﻿  save_the_arctic.cpp
+C:\Users\hyorm\OneDrive\Documents\20-1\Computer Graphics\term_project\ode\ode\include\ode\threading.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(22,1): warning C4005: 'M_PI': macro redefinition
+C:\Users\hyorm\OneDrive\Documents\20-1\Computer Graphics\term_project\ode\ode\include\ode\common.h(44): message : see previous definition of 'M_PI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(23,1): warning C4005: 'M_PI_2': macro redefinition
+C:\Users\hyorm\OneDrive\Documents\20-1\Computer Graphics\term_project\ode\ode\include\ode\common.h(47): message : see previous definition of 'M_PI_2'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(29,1): warning C4005: 'M_SQRT1_2': macro redefinition
+C:\Users\hyorm\OneDrive\Documents\20-1\Computer Graphics\term_project\ode\ode\include\ode\common.h(50): message : see previous definition of 'M_SQRT1_2'
+C:\Users\hyorm\OneDrive\Documents\20-1\Computer Graphics\term_project\save_the_arctic\save_the_arctic.cpp(102,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hyorm\OneDrive\Documents\20-1\Computer Graphics\term_project\save_the_arctic\save_the_arctic.cpp(102,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hyorm\OneDrive\Documents\20-1\Computer Graphics\term_project\save_the_arctic\save_the_arctic.cpp(104,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\hyorm\OneDrive\Documents\20-1\Computer Graphics\term_project\save_the_arctic\save_the_arctic.cpp(480,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hyorm\OneDrive\Documents\20-1\Computer Graphics\term_project\save_the_arctic\save_the_arctic.cpp(484,20): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\hyorm\OneDrive\Documents\20-1\Computer Graphics\term_project\save_the_arctic\save_the_arctic.cpp(494,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hyorm\OneDrive\Documents\20-1\Computer Graphics\term_project\save_the_arctic\save_the_arctic.cpp(498,20): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\hyorm\OneDrive\Documents\20-1\Computer Graphics\term_project\save_the_arctic\save_the_arctic.cpp(507,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hyorm\OneDrive\Documents\20-1\Computer Graphics\term_project\save_the_arctic\save_the_arctic.cpp(511,20): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\hyorm\OneDrive\Documents\20-1\Computer Graphics\term_project\save_the_arctic\save_the_arctic.cpp(520,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hyorm\OneDrive\Documents\20-1\Computer Graphics\term_project\save_the_arctic\save_the_arctic.cpp(524,20): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\hyorm\OneDrive\Documents\20-1\Computer Graphics\term_project\save_the_arctic\save_the_arctic.cpp(583,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  save_the_arctic.vcxproj -> C:\Users\hyorm\OneDrive\Documents\20-1\Computer Graphics\term_project\save_the_arctic\Debug\save_the_arctic.exe

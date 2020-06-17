@@ -1,0 +1,46 @@
+newmtl lambert4SG
+illum 4
+Kd 1.00 0.90 0.60
+Ka 0.45 0.45 0.45
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl phong1SG
+illum 4
+Kd 0.00 0.01 0.10
+Ka 0.71 0.71 0.71
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong2SG
+illum 4
+Kd 0.00 0.01 0.10
+Ka 0.76 0.76 0.76
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl polar_lb:lambert9SG
+illum 4
+Kd 1.00 0.90 0.60
+Ka 0.72 0.72 0.72
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl polar_lf:lambert8SG
+illum 4
+Kd 1.00 0.90 0.60
+Ka 0.68 0.68 0.68
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl polar_rb:lambert10SG
+illum 4
+Kd 1.00 0.90 0.60
+Ka 0.71 0.71 0.71
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl polar_rf:lambert11SG
+illum 4
+Kd 1.00 0.90 0.60
+Ka 0.71 0.71 0.71
+Tf 1.00 1.00 1.00
+Ni 1.00
