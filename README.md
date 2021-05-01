@@ -1,6 +1,6 @@
 # Save_the_Arctic
 Computer_Graphics, OpenGL_Project<br>
-Background Study: [OpenGL](https://github.com/Hyorm/OpenGL)
+Background Study: [OpenGL_Mac](https://github.com/Hyorm/OpenGL_Mac)
 ## Dependent Libraries
 1. freeglut
 2. glew32
