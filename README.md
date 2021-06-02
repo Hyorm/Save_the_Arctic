@@ -1,5 +1,6 @@
 # Save_the_Arctic
 Computer_Graphics, OpenGL_Project<br>
+20-1 Group Project: Main Developer (Other team member: Art Designer)
 Background Study: [OpenGL_Mac](https://github.com/Hyorm/OpenGL_Mac)
 ## Dependent Libraries
 1. freeglut
