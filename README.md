@@ -47,3 +47,6 @@ On the right side of the polar bear are carved ice cubes. On the left side of th
 ### Usage
 - Compile with Visual Studio 2019    
 - The user manipulates the game through the direction key, and when the game is over, the message that we want to deliver appears with the end.
+
+### Result
+[Youtube](https://youtu.be/f64oH4Hmx6E)
